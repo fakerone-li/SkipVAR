@@ -1,7 +1,3 @@
-以下是使用 Markdown 语法并纠正 LaTeX 语法后的版本：
-
----
-
 ## 🚀 SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping
 
 ### Abstract
