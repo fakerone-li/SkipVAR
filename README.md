@@ -48,7 +48,7 @@ Please cite us if our work is useful for your research.
 @article{li2025skipvar,
   title={SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping},
   author={Li, Jiajun and Ma, Yue and Zhang, Xinyu and Wei, Qingyan and Liu, Songhua and Zhang, Linfeng},
-  journal={arXiv preprint arXiv:250x},
+  journal={arXiv preprint arXiv:2506.08908},
   year={2025},
   note={Equal contribution: Jiajun Li and Yue Ma. $^\dag$Corresponding authors: Songhua Liu and Linfeng Zhang}
 }
