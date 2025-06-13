@@ -9,6 +9,7 @@ Our project **SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive 
 
 - 📂 [GitHub Repository](https://github.com/fakerone-li/SkipVAR.git) – Source code and implementation details  
 - 📄 [arXiv Preprint](https://arxiv.org/abs/2506.08908) – Paper published on arXiv
+- Welcome to our website! For more display effects, please visit our website: [Click here to visit our website](https://fakerone-li.github.io/SkipVAR-web/)
 
 ## 🔧 How to Use
 
