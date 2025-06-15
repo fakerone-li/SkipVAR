@@ -46,12 +46,14 @@ This project is a minimal modification of [Infinity](https://github.com/Foundati
 Please cite us if our work is useful for your research.
 
 ```bibtex
-@article{li2025skipvar,
-  title={SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping},
-  author={Li, Jiajun and Ma, Yue and Zhang, Xinyu and Wei, Qingyan and Liu, Songhua and Zhang, Linfeng},
-  journal={arXiv preprint arXiv:2506.08908},
-  year={2025},
-  note={Equal contribution: Jiajun Li and Yue Ma. $^\dag$Corresponding authors: Songhua Liu and Linfeng Zhang}
+@misc{li2025skipvaracceleratingvisualautoregressive,
+      title={SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping}, 
+      author={Jiajun Li and Yue Ma and Xinyu Zhang and Qingyan Wei and Songhua Liu and Linfeng Zhang},
+      year={2025},
+      eprint={2506.08908},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.08908}, 
 }
 ```
 
